@@ -6,7 +6,7 @@
 
 
 
-Files description:
+##Files description:
 #abbreviations in the code file (DEG_July2019_R-markdown.pdf)
 * B: Batch*
 * P:Cell Passage*
@@ -15,9 +15,9 @@ Files description:
              D/Du: ductal-cell-derived tumors*
   
   
- *Unsupervised clustering: Cluster_25samples_Oct23.pdf
- *Heatmap of differentially expressed genes: Heatmap_25sample_Oct23_2018.pdf
- * Principle Components Analsysi: PCA Plot
+ * Unsupervised clustering: Cluster_25samples_Oct23.pdf
+ * Heatmap of differentially expressed genes: Heatmap_25sample_Oct23_2018.pdf
+ * Principle Components Analsysi: PCA_Oct23.pdf
  
  
  
