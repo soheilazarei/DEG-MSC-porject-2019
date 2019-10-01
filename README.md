@@ -15,9 +15,9 @@
              D/Du: ductal-cell-derived tumors*
   
   
- * Unsupervised clustering: Cluster_25samples_Oct23.pdf
- * Heatmap of differentially expressed genes: Heatmap_25sample_Oct23_2018.pdf
- * Principle Components Analsysi: PCA_Oct23.pdf
+ *# Unsupervised clustering: Cluster_25samples_Oct23.pdf
+ * # Heatmap of differentially expressed genes: Heatmap_25sample_Oct23_2018.pdf
+ *# Principle Components Analysis: PCA_Oct23.pdf
  
  
  
