@@ -17,7 +17,7 @@
   
  * Unsupervised clustering: Cluster_25samples_Oct23.pdf
  *  Heatmap of differentially expressed genes: Heatmap_25sample_Oct23_2018.pdf
- * Principle Components Analysis: PCA_Oct23.pdf
+ * Principle Component Analysis: PCA_Oct23.pdf
  
  
  
