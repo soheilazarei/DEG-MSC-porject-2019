@@ -3,7 +3,7 @@
 ** Soheila Zarei**
 ** UBC Graduate alumni, 2019**
 
-#abbreviations in the code
+#abbreviations in the code file (DEG_July2019_R-markdown.pdf)
 * B: Batch*
 * P:Cell Passage*
 * sex: Mouse sex*
